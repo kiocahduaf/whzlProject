@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: whzlProject
+Implementation-Version: 2.1.0
+Built-By: Administrator
+Implementation-Vendor-Id: come.whzl
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/whzlProject
+Created-By: Maven Integration for Eclipse
+
