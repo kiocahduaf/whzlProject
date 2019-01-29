@@ -31,9 +31,9 @@ import com.whzl.modules.sys.service.SysUserService;
 /**
  * 系统用户
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年10月31日 上午10:40:10
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @RestController
 @RequestMapping("/sys/user")

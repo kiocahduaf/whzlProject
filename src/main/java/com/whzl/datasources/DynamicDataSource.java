@@ -7,9 +7,9 @@ import java.util.Map;
 
 /**
  * 动态数据源
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/8/19 1:03
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public class DynamicDataSource extends AbstractRoutingDataSource {
     private static final ThreadLocal<String> contextHolder = new ThreadLocal<>();

@@ -26,9 +26,9 @@ import com.whzl.modules.sys.service.SysRoleService;
 /**
  * 角色管理
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年11月8日 下午2:18:33
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @RestController
 @RequestMapping("/sys/role")

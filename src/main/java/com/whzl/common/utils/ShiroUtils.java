@@ -10,9 +10,9 @@ import com.whzl.modules.sys.entity.SysUserEntity;
 /**
  * Shiro工具类
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年11月12日 上午9:49:19
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public class ShiroUtils {
 

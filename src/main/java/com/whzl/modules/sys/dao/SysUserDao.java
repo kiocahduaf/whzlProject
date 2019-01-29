@@ -10,9 +10,9 @@ import com.whzl.modules.sys.entity.SysUserEntity;
 /**
  * 系统用户
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年9月18日 上午9:34:11
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Mapper
 public interface SysUserDao extends BaseMapper<SysUserEntity> {

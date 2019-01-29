@@ -27,9 +27,9 @@ import com.whzl.modules.sys.service.SysUserTokenService;
 /**
  * 登录相关
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年11月10日 下午1:15:31
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @RestController
 public class SysLoginController extends AbstractController {

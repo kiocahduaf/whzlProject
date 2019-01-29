@@ -17,9 +17,9 @@ import io.swagger.annotations.ApiOperation;
 /**
  * APP测试接口
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:47
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @RestController
 @RequestMapping("/person")

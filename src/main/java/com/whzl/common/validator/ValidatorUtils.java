@@ -13,9 +13,9 @@ import com.whzl.common.exception.RRException;
  *
  * 参考文档：http://docs.jboss.org/hibernate/validator/5.4/reference/en-US/html_single/
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-15 10:50
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public class ValidatorUtils {
     private static Validator validator;

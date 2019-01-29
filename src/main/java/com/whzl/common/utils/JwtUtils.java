@@ -13,9 +13,9 @@ import io.jsonwebtoken.SignatureAlgorithm;
 
 /**
  * jwt工具类
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/9/21 22:21
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @ConfigurationProperties(prefix = "whzl.jwt")
 @Component

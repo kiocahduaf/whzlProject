@@ -8,9 +8,9 @@ import com.whzl.common.exception.RRException;
 /**
  * 生成token
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-05-20 14:41
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public class TokenGenerator {
 

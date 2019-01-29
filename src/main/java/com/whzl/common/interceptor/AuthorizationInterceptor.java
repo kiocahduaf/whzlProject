@@ -19,9 +19,9 @@ import io.jsonwebtoken.Claims;
 
 /**
  * 权限(Token)验证
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:38
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Component
 public class AuthorizationInterceptor extends HandlerInterceptorAdapter {

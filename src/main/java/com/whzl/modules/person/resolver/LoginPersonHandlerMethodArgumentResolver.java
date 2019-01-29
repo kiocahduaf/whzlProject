@@ -16,9 +16,9 @@ import com.whzl.modules.person.service.PersonService;
 
 /**
  * 有@LoginUser注解的方法参数，注入当前登录用户
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 22:02
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Component
 public class LoginPersonHandlerMethodArgumentResolver implements HandlerMethodArgumentResolver {

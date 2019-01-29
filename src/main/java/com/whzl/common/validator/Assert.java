@@ -6,9 +6,9 @@ import com.whzl.common.exception.RRException;
 
 /**
  * 数据校验
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:50
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public abstract class Assert {
 

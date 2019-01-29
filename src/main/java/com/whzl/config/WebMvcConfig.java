@@ -14,9 +14,9 @@ import com.whzl.modules.person.resolver.LoginPersonHandlerMethodArgumentResolver
 /**
  * MVC配置
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-04-20 22:30
+  * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {
@@ -27,7 +27,9 @@ public class WebMvcConfig implements WebMvcConfigurer {
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
-        registry.addInterceptor(authorizationInterceptor).addPathPatterns("/app/**").addPathPatterns("/person/**");
+        registry.addInterceptor(authorizationInterceptor)
+        		.addPathPatterns("/app/**")
+        		.addPathPatterns("/person/**");
     }
 
     @Override

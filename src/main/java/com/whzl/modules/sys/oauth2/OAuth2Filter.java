@@ -21,9 +21,9 @@ import com.whzl.common.utils.R;
 /**
  * oauth2过滤器
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-05-20 13:00
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public class OAuth2Filter extends AuthenticatingFilter {
 

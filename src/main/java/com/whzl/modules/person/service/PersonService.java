@@ -11,9 +11,9 @@ import com.whzl.modules.person.entity.PersonEntity;
 /**
  * 用户
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:22:06
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public interface PersonService extends IService<PersonEntity> {
 

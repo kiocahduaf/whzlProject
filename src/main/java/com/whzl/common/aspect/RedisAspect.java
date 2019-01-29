@@ -13,9 +13,9 @@ import com.whzl.common.exception.RRException;
 /**
  * Redis切面处理类
  *
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-07-17 23:30
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Aspect
 @Configuration

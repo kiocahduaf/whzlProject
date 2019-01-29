@@ -2,9 +2,9 @@ package com.whzl.common.validator.group;
 
 /**
  * 新增数据 Group
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-16 0:04
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public interface AddGroup {
 }

@@ -18,9 +18,9 @@ import com.whzl.datasources.annotation.DataSource;
 
 /**
  * 多数据源，切面处理类
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017/9/16 22:20
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @Aspect
 @Component

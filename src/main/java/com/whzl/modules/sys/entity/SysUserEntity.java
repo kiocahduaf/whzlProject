@@ -15,9 +15,9 @@ import java.util.List;
 /**
  * 系统用户
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2016年9月18日 上午9:28:55
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 @TableName("sys_user")
 public class SysUserEntity implements Serializable {

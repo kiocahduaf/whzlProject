@@ -7,9 +7,9 @@ import com.whzl.modules.sys.entity.SysUserTokenEntity;
 /**
  * 用户Token
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
- * @date 2017-03-23 15:22:07
+ * @author xuchao
+ * @email 1009470059@qq.com
+ * @date 2019-01-26 10:33
  */
 public interface SysUserTokenService extends IService<SysUserTokenEntity> {
 
