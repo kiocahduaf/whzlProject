@@ -54,7 +54,7 @@ public class NewsController {
     @RequiresPermissions("news:info")
     public R info(@PathVariable("id") Long id){
 			NewsEntity news = newsService.selectById(id);
-
+			
         return R.ok().put("news", news);
     }
 

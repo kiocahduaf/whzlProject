@@ -1,4 +1,4 @@
-io\renren\DynamicDataSourceTest.class
-io\renren\JwtTest.class
-io\renren\service\DataSourceTestService.class
-io\renren\RedisTest.class
+com\whzl\RedisTest.class
+com\whzl\JwtTest.class
+com\whzl\DynamicDataSourceTest.class
+com\whzl\service\DataSourceTestService.class
